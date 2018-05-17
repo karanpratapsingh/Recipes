@@ -27,4 +27,4 @@
 
 ### Download (iOS) :
 
-[![Download-iOS](https://static.ring.com/assets/static/get_the_app/ios-app-badge-fd60a24e3e78e27dcb40a055bcc4240d.png)](http://insidetimeshare.com/wp-content/uploads/2018/03/not_available.jpg "Download-iOS")
+[![Download-iOS](https://user-images.githubusercontent.com/29705703/40169265-401e2028-59e3-11e8-9e74-3ff8b34a80d8.png)](http://insidetimeshare.com/wp-content/uploads/2018/03/not_available.jpg "Download-iOS")
