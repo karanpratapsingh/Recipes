@@ -1,5 +1,4 @@
 # Recipes
-# KWalls
 ## Recipes is a fun little app through which you can search tons of recipes.
 #### Note: Awaiting production deployment on playstore.
 
