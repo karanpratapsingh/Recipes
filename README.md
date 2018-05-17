@@ -25,7 +25,7 @@
 
 [![Recipes-SearchScreen](https://user-images.githubusercontent.com/29705703/40179733-a466a842-5a02-11e8-80f7-b8de6bd6c4b4.gif)](https://vimeo.com/270363500 "Recipes-SearchScreen")
 
-[![Recipes-ViewScreen](https://user-images.githubusercontent.com/29705703/40179733-a466a842-5a02-11e8-80f7-b8de6bd6c4b4.gif)](https://vimeo.com/270363500 "Recipes-ViewScreen")
+[![Recipes-ViewScreen](https://user-images.githubusercontent.com/29705703/40179979-54bb45ae-5a03-11e8-858e-38a18c280260.gif)](https://vimeo.com/270363500 "Recipes-ViewScreen")
 
 [![Recipes-ErrorScreen](https://user-images.githubusercontent.com/29705703/40179742-a907eb0e-5a02-11e8-8c88-9c0e0c0ce247.gif)](https://vimeo.com/270363500 "Recipes-ErrorScreen")
 
