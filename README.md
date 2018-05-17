@@ -7,7 +7,7 @@
 
 ### API's Used : 
 
-##### Food2Fork API [ Ingredients/Recipes ] : https://wall.alphacoders.com/api.php
+##### Food2Fork API [ Ingredients/Recipes ] : https://food2fork.com/about/api
 
 ### Technologies used : 
 
