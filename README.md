@@ -35,7 +35,7 @@
 
 ### Download (Android) : 
 
-[![Download-Android](http://www.atteztech.com/images/ZN62/10.19/android-app-on-google-play.jpg)](http://insidetimeshare.com/wp-content/uploads/2018/03/not_available.jpg "Download-Android")
+[![Download-Android](http://www.atteztech.com/images/ZN62/10.19/android-app-on-google-play.jpg)](https://play.google.com/store/apps/details?id=com.therecipeproject "Download-Android")
 
 ### Download (iOS) :
 
