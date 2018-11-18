@@ -1,6 +1,5 @@
 # Recipes
 ## Recipes is a fun little app through which you can search tons of recipes.
-#### Note: Awaiting production deployment on playstore.
 
 ### Front End : React Native : https://facebook.github.io/react-native/
 ### Back End : API Only.
